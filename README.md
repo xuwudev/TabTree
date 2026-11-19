@@ -1,4 +1,6 @@
 # About the MicrosoftEdge-Extensions repo
+
+The TabTree extension lives in [tab-tree-script](tab-tree-script/README.md), with build and unpacked installation instructions.
 <!-- https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md -->
 <!-- links tested 2026/01/12 -->
 
